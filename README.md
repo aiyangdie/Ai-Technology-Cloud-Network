@@ -1,4 +1,4 @@
-# 艾科技云网络 - 企业服务网站
+# Ai-Technology-Cloud-Network
 
 这是一个专业的企业服务网站，提供一站式企业服务解决方案。
 
@@ -21,7 +21,7 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/aiyang/enterprise-services.git
+git clone https://github.com/aiyangdie/Ai-Technology-Cloud-Network.git
 ```
 
 2. 打开 index.html 文件即可查看网站
